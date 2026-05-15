@@ -1,0 +1,6 @@
+service1,http://localhost:8081,5,true
+service2,http://localhost:8082,3,true
+badline
+service3,invalid-url,2,true
+service4,http://localhost:8084,-1,true
+service5,http://localhost:8085,4,false
